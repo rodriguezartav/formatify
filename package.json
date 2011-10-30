@@ -4,7 +4,7 @@
   "description": "Globalization Formating for Strings",
   "version": "0.0.1",
   "repository": {
-    "url": ""
+    "url": "git://github.com/rodriguezartav/formatify"
   },
   "main": "./index.js",
   "engines": {
