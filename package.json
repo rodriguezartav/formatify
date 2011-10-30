@@ -6,10 +6,8 @@
   "repository": {
     "url": ""
   },
-  "main": "index.js",
+  "main": "./index.js",
   "engines": {
     "node": "*"
-  },
-  "dependencies": {},
-  "devDependencies": {}
+  }
 }
